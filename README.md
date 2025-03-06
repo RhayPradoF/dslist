@@ -15,15 +15,15 @@ O **DSList** é um projeto backend que visa fornecer uma API para organizar e ge
 
 - **Backend**: Java (Spring Boot)
 - **Banco de Dados**: PostgreSQL (executado via Docker localmente e na Railway em produção)
-- **Ferramentas de Build**: Maven ou Gradle
+- **Ferramentas de Build**: Maven
 - **Outras Ferramentas**: Git, Docker, Railway (para deploy)
 
 ## Como Executar o Projeto
 
 ### Pré-requisitos
 
-- Java (JDK 11 ou superior)
-- Maven ou Gradle (dependendo do projeto)
+- Java (JDK 17 ou superior)
+- Maven 
 - Docker (para rodar o PostgreSQL localmente)
 
 ### Instalação Local
